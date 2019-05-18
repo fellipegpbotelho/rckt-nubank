@@ -29,10 +29,6 @@ export default function Menu({ translateY }) {
           <NavText>Perfil</NavText>
         </NavItem>
         <NavItem>
-          <Icon name="credit-card" size={20} color="#FFF" />
-          <NavText>Configurar cartão</NavText>
-        </NavItem>
-        <NavItem>
           <Icon name="smartphone" size={20} color="#FFF" />
           <NavText>Configurações do app</NavText>
         </NavItem>
